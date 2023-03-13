@@ -29,7 +29,7 @@ void main()
     ar3[l]=ar2[o];
     o++;
    }
-   
+   printf("Array After Merging :\n");
    for(int m=0;m<p;m++)
    {
     printf("%d ",ar3[m]);
